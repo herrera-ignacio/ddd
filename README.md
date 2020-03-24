@@ -13,6 +13,7 @@ myself, but any developer may find it useful, both for learning DDD from scratch
 
 * [Introduction](ppp/introduction.md)
 * [Principles and Practices of DDD](ppp/what_is_ddd.md)
+* [Strategic Patterns](ppp/strategic_patterns.md)
 
 ## WIP
 
